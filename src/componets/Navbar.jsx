@@ -10,8 +10,8 @@ const Navbar = () => {
         <span className='text-blue-500 '>OP/&gt;</span>
         </div>
         </div>
-         <div className=' text-white bg-blue-500 rounded-full p-1 flex justify-center items-center gap-2'>
-          <a href="https://github.com/nilesh7757/HI.git">
+         <div className=' text-white'>
+          <a className=' bg-blue-500 rounded-full p-1 flex justify-center items-center gap-2' href="https://github.com/nilesh7757/HI.git">
           <img className="w-8 h-8" src="icons/github.svg" alt="" />
           <span className='font-bold text-xl'>GitHub</span>
           </a>
